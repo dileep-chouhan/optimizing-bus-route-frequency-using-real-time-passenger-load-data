@@ -1,6 +1,6 @@
 # Optimizing Bus Route Frequency using Real-Time Passenger Load Data
 
-## Overview
+## Overview....
 
 This project analyzes real-time passenger load data to optimize bus route frequencies. The goal is to identify routes where adjustments to frequency could minimize passenger wait times and improve the overall efficiency of resource allocation within the public transportation system. The analysis involves data cleaning, statistical analysis, and visualization to provide actionable recommendations for bus route scheduling.
 
