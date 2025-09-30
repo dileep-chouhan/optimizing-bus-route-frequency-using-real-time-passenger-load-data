@@ -12,7 +12,7 @@ This project analyzes real-time passenger load data to optimize bus route freque
 * Matplotlib
 * Seaborn
 
-## How to Run
+## How to Run....
 
 1. **Install Dependencies:**  Ensure you have Python 3.x installed. Then, navigate to the project directory in your terminal and install the necessary libraries using pip:
 
