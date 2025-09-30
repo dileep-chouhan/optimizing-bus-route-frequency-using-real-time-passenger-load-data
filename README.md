@@ -29,6 +29,6 @@ This project analyzes real-time passenger load data to optimize bus route freque
    The script requires a properly formatted CSV file containing the real-time passenger load data.  The expected format and location of this file should be specified within the `main.py` script itself.  Please refer to the comments within the code for details.
 
 
-## Example Output
+## Example Output....
 
 The script will print key findings of the analysis to the console, including statistics on passenger load, wait times, and suggested frequency adjustments for different routes.  Additionally, the script will generate several visualization plots (e.g., histograms of passenger loads, line plots showing passenger load over time) and save them as PNG files in the `output` directory.  These plots provide a visual representation of the data and the analysis results, aiding in understanding the recommendations.  The exact filenames of these plots may vary.
